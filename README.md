@@ -36,8 +36,8 @@
 ---
 
 ### 🚀 Featured Projects
-- 🛒 [CourseHub](https://github.com/Prarthan23/CourseHub) – MERN-based course selling platform  
-- ⚙️ [All-in-One Calculator](https://github.com/Prarthan23/AllInOne-Calculator) – React + Tailwind project  
+- 🛒 [Frapap](https://frapap.de/) – Germany Based B2B Selling Platform  
+- ⚙️ [Spark Stem Academy](https://sparkstemacademy.com/) – US Based Summer Camp Registration Website  
 - 🌐 [Portfolio](https://prarthanparmar.vercel.app) – My personal website  
 
 ---
