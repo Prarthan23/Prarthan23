@@ -65,9 +65,9 @@
 ---
 
 ### 🏆 Achievements
-- 💻 MERN Certified (30Days Coding)
-- 🌱 Frontend Intern @ Techplement
-- 🧠 Creator of *The Beyonder Universe* ⚔️  
+- 💻 JOB READY A.I Powered Cohort Certified
+- 🌱 Shortlisted For final round in DevangMehta IT Awards 2023
+- 🧠 Author of *The Beyonder:Beyond Human Imagination* ⚔️  
 
 ---
 
@@ -80,7 +80,7 @@
 ---
 
 ### 🌀 Contribution Graph
-![snake gif](https://github.com/Prarthan23/Prarthan23/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Prarthan23/Prarthan23/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
