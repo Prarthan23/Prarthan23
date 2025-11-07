@@ -80,7 +80,7 @@
 ---
 
 ### 🌀 Contribution Graph
-![Snake animation](https://raw.githubusercontent.com/Prarthan23/Prarthan23/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Prarthan23/Prarthan23/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
